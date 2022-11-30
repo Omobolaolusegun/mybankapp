@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+#depos{
+    background-image: url(../../Downloads/deposit3.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100px;
+    height: 100px;
+
+}
+
+#card{
+    background-image: url(../../Downloads/bankcard.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100px;
+    height: 100px;
+    top: 100px;
+}
+
+#with{
+    width: 30px;
+    height: 30px;
+    top: 80px;
+}
